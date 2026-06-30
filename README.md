@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawit Zeleke</h1>
-
+<h2 align="center"> Machine Learning Researcher</h2>
 <h3 align="center">Full-Stack Software Engineer • Backend Enthusiast • AI Explorer</h3>
 
 <p align="center">
