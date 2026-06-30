@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dawit Zeleke</h1>
-<h2 align="center"> Machine Learning Researcher</h2>
-<h3 align="center">Full-Stack Software Engineer • Backend Enthusiast • AI Explorer</h3>
+<h3 align="center"> Machine Learning Researcher | Full-Stack Software Engineer | Backend Enthusiast | AI Explorer</h3>
 
 <p align="center">
 I enjoy building scalable web applications, designing clean backend architectures, and exploring AI, cloud technologies, and DevOps.
