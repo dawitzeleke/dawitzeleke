@@ -71,7 +71,7 @@ I enjoy building scalable web applications, designing clean backend architecture
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dawitzeleke&theme=onedark&no-frame=true&row=1&column=7"/>
+<img src="https://github-trophies.vercel.app/?username=dawitzeleke&theme=onedark&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -80,12 +80,6 @@ I enjoy building scalable web applications, designing clean backend architecture
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawitzeleke&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=dawitzeleke&icon=5&color=12"/>
 </p>
 
 ---
