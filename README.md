@@ -78,6 +78,7 @@ I enjoy building scalable web applications, designing clean backend architecture
     alt="Dawit Zeleke's GitHub Activity Graph"
   />
 </p>
+
 ---
 
 <p align="center">
