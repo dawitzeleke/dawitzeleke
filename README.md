@@ -52,7 +52,7 @@ I enjoy building scalable web applications, designing clean backend architecture
 
 <p align="center">
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawitzeleke&theme=github_dark"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dawitzeleke&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=dawitzeleke&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
