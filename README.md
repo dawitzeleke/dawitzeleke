@@ -71,12 +71,10 @@ I enjoy building scalable web applications, designing clean backend architecture
 
 ---
 
-# 📈 Contribution Graph
+<h2>📈 Contribution Graph</h2>
 
 <p align="center">
-
-[![Dawit Zeleke's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dawitzeleke&theme=github-dark)](https://github.com/dawitzeleke)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dawitzeleke&theme=github-dark" alt="GitHub Contribution Graph">
 </p>
 ---
 
