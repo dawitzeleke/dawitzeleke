@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Dawit Zeleke</h1>
-<h3 align="center"> Machine Learning Researcher | Full-Stack Software Engineer | Backend Enthusiast | AI Explorer</h3>
-
 <p align="center">
-I enjoy building scalable web applications, designing clean backend architectures, and exploring AI, cloud technologies, and DevOps.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1DB954&height=220&section=header&text=Hi%20there,%20I'm%20Dawit%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20Researcher%20%7C%20Full-Stack%20Engineer%20%7C%20AI%20Explorer&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dawitzeleke&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=1DB954&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Exploring+Machine+Learning+%26+AI;Flutter+%26+Full-Stack+Development;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dawitzeleke&label=Profile%20Views&color=1DB954&style=flat" alt="Profile Views"/>
 </p>
 
 ---
@@ -42,6 +43,7 @@ I enjoy building scalable web applications, designing clean backend architecture
 | 🔧 DevOps & Tools | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
 | 🔌 Other | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![Playwright](https://img.shields.io/badge/playwright-%232EAD33.svg?style=flat-square&logo=playwright&logoColor=white) |
 | ⚡ State Management | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white) |
+
 ---
 
 # 📊 GitHub Analytics
@@ -51,19 +53,13 @@ I enjoy building scalable web applications, designing clean backend architecture
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawitzeleke&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dawitzeleke&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
 <img width="49%" src="https://streak-stats.demolab.com/?user=dawitzeleke&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dawitzeleke&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawitzeleke&theme=github_dark"/>
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitzeleke&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dawitzeleke&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dawitzeleke&theme=github_dark&utcOffset=3"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dawitzeleke&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitzeleke&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -76,14 +72,18 @@ I enjoy building scalable web applications, designing clean backend architecture
 
 ---
 
-## 📈 Contribution Graph
+## 💬 Random Dev Quote
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dawitzeleke&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-quotes.vercel.app/quote?type=horizontal&theme=dark&border=true" alt="Random Dev Quote"/>
 </p>
 
 ---
 
 <p align="center">
 ⭐ <b>If you like my work, consider giving a star to my repositories!</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1DB954,100:0e75b6&height=100&section=footer"/>
 </p>
