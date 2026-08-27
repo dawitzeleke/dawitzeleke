@@ -56,14 +56,14 @@ I enjoy building scalable web applications, designing clean backend architecture
 </p>
 
 <p align="center">
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dawitzeleke&theme=github_dark"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawitzeleke&theme=github_dark"/>
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawitzeleke&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dawitzeleke&theme=github_dark"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dawitzeleke&theme=github_dark"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawitzeleke&theme=github_dark"/>
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dawitzeleke&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dawitzeleke&theme=github_dark&utcOffset=3"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dawitzeleke&theme=github_dark"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dawitzeleke&theme=github_dark&utcOffset=3"/>
 </p>
 
 ---
