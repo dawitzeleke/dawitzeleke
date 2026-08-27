@@ -74,7 +74,7 @@ I enjoy building scalable web applications, designing clean backend architecture
 # 📈 Contribution Graph
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/dawitzeleke"
+    src="https://ghchart.rshah.org/0e75b6/dawitzeleke"
     alt="Dawit Zeleke's GitHub Activity Graph"
   />
 </p>
