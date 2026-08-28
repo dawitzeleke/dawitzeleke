@@ -16,9 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=dawitzeleke&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dawitzeleke&show_icons=true&theme=tokyonight&hide_border=true" alt="Dawit's GitHub Stats"/>
-</p>
+</p> -->
 
 
 ---
