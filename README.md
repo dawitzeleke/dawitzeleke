@@ -1,13 +1,25 @@
-<h1 align="center">Hi 👋, I'm Dawit Zeleke</h1>
-<h3 align="center"> Machine Learning Researcher | Full-Stack Software Engineer | Backend Enthusiast | AI Explorer</h3>
+<h1 align="center">
+  Hi 👋, I'm Dawit Zeleke
+</h1>
 
 <p align="center">
-I enjoy building scalable web applications, designing clean backend architectures, and exploring AI, cloud technologies, and DevOps.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Machine+Learning+Researcher;Full-Stack+Software+Engineer;Backend+Enthusiast;AI+Explorer;Building+Scalable+Software+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  I enjoy building scalable web applications, designing clean backend architectures,
+  <br/>
+  and exploring AI, cloud technologies, and DevOps.
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dawitzeleke&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dawitzeleke&show_icons=true&theme=tokyonight&hide_border=true" alt="Dawit's GitHub Stats"/>
+</p>
+
 
 ---
 
